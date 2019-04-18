@@ -1,14 +1,17 @@
 ## ChangeLog
+#### Version 0.7.5
+- Fixed onactivate call
+- Merged new Android permissions
 
-#### Version 0.7.3 (07.08.2019)
-This is more a "just publish all changes after long time" release.
-- [___change___:] Removed code for Windows 10 Mobile
-- [feature:] Check if screen is off on Android
-- [feature:] Wake-up device on Android
-- [feature:] Unlock device on Android
-- [bugfix:] Plugin not working for Android 8
-- [bugfix:] Cannot install plugin on cordova > 9
-- [bugfix:] Function `onactivate` does no longer exist
+#### Version 0.7.4
+- Fixed iOS 12.2 crashes
+- Merged original repository Android source updates
+
+#### Version 0.7.3
+- fixed iOS crashes
+- Check if screen is off on Android
+- Wake-up device on Android
+- Unlock device on Android
 
 #### Version 0.7.2 (02.02.2017)
 - Fixed app freeze on iOS using wkwebview-engine
