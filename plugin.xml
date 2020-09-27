@@ -3,8 +3,7 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
         id="cordova-plugin-background-mode"
-        version="0.7.4">
-
+        version="0.7.8">
     <name>BackgroundMode</name>
 
     <description>Prevent apps from going to sleep in background. iOS fix.</description>
@@ -15,14 +14,14 @@
 
     <license>Apache 2.0</license>
 
-    <author>Sebastián Katzer</author>
+    <author>Donnie Thompson</author>
 
     <!-- dependencies -->
     <dependency id="cordova-plugin-device" />
 
     <!-- cordova -->
     <engines>
-        <engine name="cordova" version=">=3.0.0" />
+        <engine name="cordova" version=">=5.0.0" />
         <engine name="android-sdk" version=">=16" />
     </engines>
 
