@@ -7,7 +7,7 @@
 
     <name>BackgroundMode</name>
 
-    <description>Prevent apps from going to sleep in background.</description>
+    <description>Prevent apps from going to sleep in background. iOS fix.</description>
 
     <repo>https://github.com/katzer/cordova-plugin-background-mode.git</repo>
 
